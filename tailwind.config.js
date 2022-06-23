@@ -10,7 +10,7 @@ module.exports = {
         }
       },
       fontFamily: {
-        body: ['Nunito']
+        raleway: ['"Raleway"', 'sans-serif']
       }
     },
   },
