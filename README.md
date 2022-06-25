@@ -1,2 +1,5 @@
-# tailwind-tutorial
-All the course files for the Tailwind CSS tutorial on the Net Ninja YouTube channel.
+# Food Restaurant Landing page.
+
+## This project was built with HTML and Tailwind CSS.
+
+### Welcome to my Github reprository👋.
